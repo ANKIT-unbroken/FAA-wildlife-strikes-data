@@ -52,7 +52,7 @@ It was found that Canada goose are among the birds that caused damage to aircraf
 A Tree map for determining the amount of damages caused with species.
 However, for Geese the number of strikes is low, but, the amount of damage is substantial along with the aircraft being out of service for average is highest - 2160 hours.
 
-*(Reportedly In united states Geese and Canada Goose are reported to have higher amount of     damage than any other bird species)
+*(Reportedly In united states Geese and Canada Goose are reported to have higher amount of damage than any other bird species)
 
 
 5. Number of strikes from 2000-2015:
@@ -63,8 +63,8 @@ All of the states have increased number of strikes in last four years with more 
 
 
 reference links
-()
-()
+(https://wildlife.faa.gov/home)
+(https://www.nytimes.com/2009/04/25/us/25birds.html)
 
 
 
