@@ -4,3 +4,8 @@ During the past century, wildlife-aircraft strikes have resulted in the loss of 
 
 
 TABLEAU VISUALISATIONS
+
+
+![alt text](https://github.com/[ANKIT_unbroken]/[FAA-wildlife-strikes-data
+]/blob/[main]/https://github.com/ANKIT-unbroken/FAA-wildlife-strikes-data/blob/main/stateswithstrikes%26%20damage.png?raw=true)
+
